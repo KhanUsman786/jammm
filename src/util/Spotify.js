@@ -1,4 +1,4 @@
-const clientId='def2b4508b5a4dfeb13d0ab1fdc50bf5'
+const clientId=''
 const redirectUrl="http://direful-liquid.surge.sh"
 
 
